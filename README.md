@@ -8,6 +8,6 @@ If a user chooses "investment", then they are futher asked to specify "simple" o
 
 If a user chooses "bond" then the user will be asked further inputs related to the bond calculation. The application will then calculate the monthly repayment amount.
 
-Robin Titus is the maintainer and contributor to this project.
+Robin Titus is the maintainer and contributor of this project.
 
-To orun this project, download it, and run the following command from your terminal: 'py finance_calculators.py'.
+To run this project, download it, and run the following command from your terminal: 'py finance_calculators.py'.
